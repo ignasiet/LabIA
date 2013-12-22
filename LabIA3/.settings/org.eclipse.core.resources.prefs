@@ -1,0 +1,6 @@
+#Mon May 27 12:15:36 BRT 2013
+eclipse.preferences.version=1
+encoding//src/root/nested/Main.py=utf-8
+encoding//src/root/nested/settings/StopWords.py=utf-8
+encoding//src/root/nested/settings/connectionMongoDB.py=utf-8
+encoding//src/root/nested/settings/document.py=utf-8
